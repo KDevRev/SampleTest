@@ -1,2 +1,2 @@
 # SampleTest
-Kinda a dummy
+Kinda (suck) a dummy
